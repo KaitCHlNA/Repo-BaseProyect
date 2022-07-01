@@ -1,2 +1,2 @@
 # Repo-BaseProyect
-Inicio del proyecto base en Unity
+Repo para trabajar en un proyecto de follow cams, tipo RE y third person.
